@@ -1,5 +1,9 @@
 # Proyecto Final Data Science II
 
+**Comision:** 77790  
+**Curso:** Data Science II  
+**Estudiante:** David Alvarez
+
 Este proyecto analiza un dataset de uso de vehiculos electricos en India. La idea principal es predecir si un viaje puede tener alto riesgo de ansiedad por autonomia, usando modelos de Machine Learning.
 
 ## Presentacion rapida
